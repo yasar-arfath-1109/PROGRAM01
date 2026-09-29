@@ -1,6 +1,7 @@
-CREATE TABLE Department
+create TABLE department
 (
-DepartmentID INT(5) PRIMARY KEY,
-DepartmentName VARCHAR(20),
+DEPARTMENTID INT(5) PRIMARY KEY,
+DEPARTMENTNAME VARCHAR(20),
 HOD VARCHAR(20)
 );
+desc department;
